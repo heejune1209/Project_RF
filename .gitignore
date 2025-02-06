@@ -1,0 +1,10 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+*.log
+*.tmp
+*.user
+*.cache
+*.db
